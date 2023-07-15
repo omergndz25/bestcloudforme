@@ -1,0 +1,17 @@
+docker run -p 5000:5000 omer25/bestcloudforme
+
+docker push omer25/bestcloudforme
+
+docker tag bestcloudforme omer25/bestcloudforme
+
+docker login
+
+docker build -t bestcloudforme"C:\Users\white\OneDrive\Masaüstü\bestcolurdforme\bestcloudforme" -f "C:\Users\white\OneDrive\Masaüstü\bestcolurdforme\bestcloudforme\Dockerfile.txt"
+
+docker tag web-app:tagname web-app:tagname
+
+
+git clone git@github.com:omergndz25/bestcloudforme.git
+
+
+
